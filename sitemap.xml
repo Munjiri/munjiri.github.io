@@ -60,9 +60,6 @@
 		<loc>https://www.munjiri.com/ajiri-tea.html</loc>
 	</url>
 	<url>
-		<loc>https://www.munjiri.com/kusini-safaris.html</loc>
-	</url>
-	<url>
 		<loc>https://www.munjiri.com/mushroom-farm-malawi.html</loc>
 	</url>
 	<url>
@@ -136,5 +133,11 @@
 	</url>
 	<url>
 		<loc>https://www.munjiri.com/wandering-the-cederberg.html</loc>
+	</url>
+	<url>
+		<loc>https://www.munjiri.com/kusini-safaris.html</loc>
+	</url>
+	<url>
+		<loc>https://www.munjiri.com/kusini-matetsi-zimbabwe.html</loc>
 	</url>
 </urlset>
